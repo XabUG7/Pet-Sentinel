@@ -1,0 +1,15 @@
+opencv-python==4.12.0.88
+tqdm==4.66.5
+torch==2.7.1+cu118
+torchvision==0.22.1+cu118
+h5py==3.11.0
+numpy==1.26.4
+ultralytics==8.3.176
+matplotlib==3.9.2
+pillow_heif==1.0.0
+pillow==11.3.0
+scikit-learn==1.5.1
+google==3.0.0
+google-auth==2.40.3
+google-auth-oauthlib==1.2.2
+google-api-python-client==2.175.0
