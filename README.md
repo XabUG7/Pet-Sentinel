@@ -21,7 +21,7 @@ The project leverages the following technologies and resources:
 - [Setup and Dependencies](#setup-and-dependencies)
 - [Workflow](#workflow)
 - [Usage](#usage)
-  - [How to test the app](#5-live-webcam-demo)
+  - [How to test the app](#5-how-to-test-the-app)
 - [Configuration](#configuration)
 - [Dataset](#Dataset)
 - [License](#License)
@@ -145,7 +145,7 @@ save_gallery_embeddings(model, "assets/transformed data/train_data_cat.pkl", "ca
 save_gallery_embeddings(model, "assets/transformed data/train_data_dog.pkl", "dog")
 ```
 
-## 5. Live Webcam Demo
+## 5. How to test the app
 
 Run the real-time pet recognition gate:
 
