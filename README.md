@@ -21,8 +21,6 @@ The project leverages the following technologies and resources:
 - [Setup and Dependencies](#setup-and-dependencies)
 - [Workflow](#workflow)
 - [Usage](#usage)
-- [Model Training](#model-training)
-- [Live Inference](#live-inference)
 - [Configuration](#configuration)
 - [Troubleshooting](#troubleshooting)
 - [Dataset](#Dataset)
