@@ -21,7 +21,7 @@ The project leverages the following technologies and resources:
 - [Setup and Dependencies](#setup-and-dependencies)
 - [Workflow](#workflow)
 - [Usage](#usage)
-  - [How to test the app](#live-webcam-demo)
+  - [How to test the app](#5.-live-webcam-demo)
 - [Configuration](#configuration)
 - [Dataset](#Dataset)
 - [License](#License)
