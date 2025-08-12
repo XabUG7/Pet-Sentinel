@@ -94,7 +94,7 @@ pip install -r requirements.txt
 1. **Data Acquisition**
     - Automatically fetches shared folders from Google Drive annotated for cat/dog images and videos (e.g., "random cat", "same cat", etc.).
 2. **Preprocessing**
-    - Extracts images or video frames, converts and normalizes them as PyTorch tensors.
+    - Extracts images or video frames, converts them as PyTorch tensors.
     - Writes tensors/labels to H5 files, maintaining class labels.
 3. **Transformation & Dataset Splitting**
     - Normalizes tensors, resizes to uniform shape, stores as pickle for fast access.
