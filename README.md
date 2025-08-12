@@ -26,6 +26,7 @@ The project leverages the following technologies and resources:
 - [Configuration](#configuration)
 - [Troubleshooting](#troubleshooting)
 - [Dataset](#Dataset)
+- [License](#License)
 
 # Project Structure
 
@@ -166,7 +167,23 @@ python pet-sentinel-app.py
 
 # Dataset
 
-The data for 
+This project uses data from 3 different sources for training the model:
+
+- Random dog pictures are from the following site: https://dog.ceo/dog-api/documentation/random  
+  The images are fetched with "Dog Pics API Fetch.py" in the folder "Dog Pics"  
+  This dataset is used without commercial purpose in this project.
+- Random cat images have been fetched from the following website: https://aleatori.cat/  
+  For the exact same images used during training contact us.
+  This dataset is used without commercial purpose in this project.
+- Own cat and dog images for training on positive recognition label. These pet images are not available online and belong to the pet owners.  
+  In case you want access to the images feel free to contact us through [open an issue](https://github.com/XabUG7/Pet-Sentinel/issues)
 
 
+# License
+
+This repository is intended for personal, educational, and non-commercial use only.  
+You may use, modify, and share the code and resources for research or learning purposes.  
+**Commercial use, redistribution, or integration into proprietary systems is strictly prohibited** without prior written permission from the author.
+
+If you have questions about licensing or wish to request an exception, please contact us via [open an issue](https://github.com/XabUG7/Pet-Sentinel/issues)
 
