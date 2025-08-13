@@ -183,11 +183,7 @@ def main():
             status = "REJECT (person, bear or unknown at the gate)"
         elif my_cat_detected or my_dog_detected:
             status = "Gate Open!"
-            # stage2(frame)
-    
-            '''
-            We can have our Stage 2 logics here
-            '''
+
             
         else:
             status = "EMPTY or not allowed objects in screen"
